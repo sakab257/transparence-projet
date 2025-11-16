@@ -1,0 +1,276 @@
+ID,Nom_Produit,Marque,Code_Barres,Categorie,Energie_kJ,Energie_kcal,Acides_Gras_Satures_g,Sucres_g,Sodium_mg,Sel_g,Proteines_g,Fibres_g,Fruits_Legumes_Pct,Score_Nutriscore,Label_Nutriscore,Score_Greenscore,Label_Greenscore,Label_Bio,Nombre_Additifs,Liste_Additifs
+1,Sidi Ali,Sidi Ali,6111035000430,Eau,2.0,0.0,0.0,1.4,0.0,0.0,0.0,0.0,0,1,A,,NOT-APPLICABLE,NON,0,
+2,اكوافينا,AQUAFINA,6111252421568,Eau,0.0,0.0,0.0,0.0,0.2,0.001,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+3,Eau De Source,Cristaline,3274080005003,Eau,0.0,0.0,0.0,0.0,21.0,0.052,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+4,Ain Saïss,Danone,6111128000071,Eau,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+5,Eau minéral naturelle,Ain atlas,6111035502828,Eau,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+6,Orange juice,Coca cola,5449000147417,Autre boisson,165.0,39.0,0.0,17.0,50.4,0.126,0.0,5.0,0,15,E,51.0,C,NON,7,"e160a, e300, e414, e440, e445, e950, e954"
+7,"coca cola 0,5",Coca-Cola,54491472,Soda,180.0,42.0,0.0,10.6,0.0,0.0,0.0,0.0,0,12,E,,NOT-APPLICABLE,NON,3,"e150d, e290, e338"
+8,Ciel,THE COCA-COLA COMPANY,5449000061515,Eau,0.0,0.0,0.0,0.0,20.0,0.05,0.0,0.0,0,0,B,,NOT-APPLICABLE,NON,0,
+9,Geröstete Mandel Ohne Zucker,alpro,5411188112709,Autre boisson,61.0,15.0,0.1,0.0,60.0,0.15,0.5,0.3,0,1,B,69.0,B,NON,3,"e322, e412, e418"
+10,Aïn Atlas 50cl,Aïn Atlas,6111035001673,Eau,0.0,0.0,0.0,0.0,9.6,0.024,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+11,Green Tea,green tea,6923818812082,Thé,200.0,0.5,0.5,0.2,40.0,0.1,0.5,0.2,0,3,C,80.0,A,NON,0,
+12,Pulco Citron,"Orangina Schweppes France,Pulco,Schweppes International Limited",3225350000501,Autre boisson,99.0,11.5,0.0,0.4,4.0,0.01,0.1,5.0,0,0,B,112.0,A-PLUS,OUI,1,e330
+13,Mandelmilch mit Zucker,alpro,5411188110835,Boisson lactée,93.0,22.0,0.1,2.4,56.0,0.14,0.4,0.4,0,4,C,89.0,A,OUI,2,"e322, e418"
+14,BjORG AMANDE ALMOND SANS SUGRES- NO SUGAR,Bjorg,3229820787015,Boisson lactée,102.0,25.0,0.2,0.5,20.0,0.05,0.7,0.5,0,2,B,79.0,A,OUI,2,"e412, e415"
+15,Haferdrink Barista,Oatly,7394376616501,Autre boisson,257.0,61.0,0.3,3.4,40.0,0.1,1.1,0.8,0,7,D,63.0,B,NON,2,"e340, e340ii"
+16,Eau minérale naturelle,Evian,3068320120256,Eau,0.0,0.0,0.0,0.0,0.7,0.002,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+17,PET 2L OASIS TROPICAL,"Oasis,Orangina Schweppes France",3124480191182,Eau,120.0,28.0,0.0,6.6,12.0,0.03,0.1,0.0,0,7,D,48.0,C,NON,5,"e160c, e296, e300, e330, e331"
+18,Coca-Cola slim 25cl,Coca-Cola,5449000008046,Soda,70.4,42.0,0.0,10.6,8.3,0.021,0.0,0.0,0,10,E,,NOT-APPLICABLE,NON,3,"e150d, e290, e338"
+19,Badoit 1 L PET,BADOIT,3068320114453,Eau,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+20,Raibi jamila,central,6111032009870,Boisson lactée,245.0,58.6,0.9,7.0,0.0,0.0,1.6,0.0,0,8,D,37.0,D,NON,0,
+21,Red Bull,Red Bull,9002490100070,Soda,195.0,46.6,0.0,11.0,40.0,0.1,0.0,0.0,0,12,E,,NOT-APPLICABLE,NON,6,"e101, e150, e290, e330, e500, e504"
+22,Jutos,Jaouda,6111242106666,Jus de fruits,66.8,42.2,0.0,8.0,20.0,0.05,0.0,0.0,0,7,D,21.0,E,NON,1,e330
+23,"Alpro Haferdrink, Ungesüßt 1 L, FRESH",alpro,5411188124702,Autre boisson,169.0,40.0,0.2,0.0,44.0,0.11,0.2,1.2,0,3,C,65.0,B,NON,1,e418
+24,Organic oat drink,Oatly,7394376123337,Boisson lactée,166.0,39.0,0.1,3.4,0.1,0.0,1.1,0.8,0,5,C,77.0,A,OUI,0,
+25,COCA COLA PET 1.25L CT,Coca-Cola,5449000267412,Soda,180.0,42.0,0.0,10.6,0.0,0.0,0.0,0.0,0,12,E,,NOT-APPLICABLE,NON,2,"e150d, e338"
+26,Soyamilch,ALPRO,5411188115472,Boisson lactée,163.0,39.0,0.3,2.5,36.0,0.09,3.0,0.5,0,-1,B,86.0,A,NON,2,"e340, e418"
+27,Multivitamin Capri-Sun,Capri-Sun,4000177158319,Autre boisson,130.0,31.0,0.0,7.3,0.0,0.0,0.0,0.0,0,8,D,49.0,C,NON,0,
+28,CONTREX eau minérale naturelle,Contrex,7613035866386,Eau,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+29,Avoine - Boisson biologique,Bjorg,3229820792132,Boisson lactée,187.0,45.0,0.3,4.0,36.0,0.09,0.5,0.5,0,6,C,82.0,A,OUI,0,
+30,Pétillante saveur Citron,"Lidl, Saguaro",20656935,Eau,1.0,0.0,0.0,0.0,4.0,0.01,0.0,0.0,0,0,B,,NOT-APPLICABLE,NON,0,
+31,Succo di limone,"Solevita, Italiamo",20019907,Autre boisson,117.0,28.0,0.1,2.2,4.0,0.01,0.4,0.0,0,-2,B,32.0,D,NON,2,"e224, e300"
+32,Danup fraise,Danone,6111032004448,Boisson lactée,59.0,246.0,1.06,5.5,0.0,0.0,1.75,0.0,0,4,C,23.0,E,NON,0,
+33,chocolat en poudre,Poulain,3664346306027,Soda,297.0,71.0,1.2,8.1,44.0,0.11,4.0,1.2,0,11,E,37.0,D,NON,0,
+34,Bebida de Avena,Alitey,8423352861402,Autre boisson,198.0,47.0,0.1,5.4,12.0,0.03,1.6,0.7,0,1,B,63.0,B,NON,0,
+35,"Alpro® Mandeldrink Ungesüßt, 1 L, FRESH",Alpro,5411188112778,Autre boisson,53.0,13.0,0.1,0.0,52.0,0.13,0.4,0.4,0,1,B,78.0,A,NON,1,e418
+36,Press Up moyen,Jaouda,6111242107366,Jus de fruits,157.0,37.0,0.0,4.5,1000.0,2.5,0.1,0.2,0,14,E,21.0,E,NON,1,e330
+37,ROZANA Eau Minérale Naturelle Pétillante 1.00 L,Rozana,3468570116601,Eau,0.0,0.0,0.0,0.0,49.3,0.123,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+38,"Alpro Sojadrink, Ungesüßt 1L",Danone,5411188115496,Boisson lactée,138.0,33.0,0.3,0.0,36.0,0.09,3.3,0.6,0,-5,B,77.0,A,NON,2,"e340, e418"
+39,Coca-Cola Zero,Coca-Cola,5449000131843,Soda,1.3,0.3,0.0,0.0,4.0,0.01,0.0,0.0,0,4,C,,NOT-APPLICABLE,NON,7,"e150d, e290, e331, e338, e950, e951, e952"
+40,Rich and indulgent Hazelnut,Promise Gluten Free,5411188110842,Boisson lactée,122.0,221.0,0.2,3.2,56.0,0.14,0.4,0.3,0,4,C,69.0,B,NON,2,"e322, e418"
+41,Pepsi Max,"Pepsi zero, PepsiCo",3502110009357,Soda,2.0,0.4,0.0,0.0,4.0,0.01,0.0,0.0,0,4,C,,NOT-APPLICABLE,NON,6,"e150d, e330, e331, e338, e950, e951"
+42,Bio Hafer,Vemondo,4056489997511,Boisson lactée,148.0,35.0,0.2,3.3,32.0,0.08,0.0,1.0,0,4,C,76.0,A,OUI,0,
+43,Grand Arôme 32% de Cacao,Poulain,3664346306003,Soda,302.0,72.0,1.1,9.5,44.0,0.11,3.7,0.8,0,10,E,39.0,D,NON,0,
+44,Orangina,Orangina,3249760000654,Soda,174.0,41.0,0.0,9.6,4.0,0.01,0.1,0.0,0,11,E,,NOT-APPLICABLE,NON,0,
+45,San Pellegrino,"San Pellegrino, Nestlé",8002270116544,Eau,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+46,Organic Gluten-Free Oat Drink,Plenish,5060362071709,Boisson lactée,138.0,33.0,0.1,3.8,32.0,0.08,0.6,0.5,0,5,C,61.0,B,OUI,0,
+47,Orangensaft,Tropicana,3502110009449,Jus de fruits,182.0,40.0,0.0,8.9,0.0,0.0,0.8,0.6,0,4,C,43.0,D,NON,0,
+48,Guedila,Guedila,6130758000022,Eau,0.0,0.0,0.0,0.0,2.9,0.007,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+49,Alpro Not Milk,ALPRO,5411188134985,Autre boisson,248.0,59.0,0.4,0.0,48.0,0.12,0.7,1.0,0,5,C,63.0,B,NON,2,"e340, e418"
+50,Soja nature sans sucre ajouté bio,Bjorg,3229820019604,Boisson lactée,178.0,43.0,0.6,0.5,12.0,0.03,3.9,0.5,0,-4,B,99.0,A-PLUS,OUI,0,
+51,Haway tropical,Hawai,5449000025272,Soda,157.0,37.0,0.0,8.5,0.0,0.0,0.0,0.0,0,10,E,,NOT-APPLICABLE,NON,3,"e110, e1450, e444"
+52,Grand Arôme moins de sucre,Poulain,3664346315371,Soda,296.0,70.0,1.1,8.4,44.0,0.11,3.9,1.1,0,16,E,36.0,D,NON,0,
+53,Organic Oat drink,Plenish,5060362071051,Boisson lactée,138.0,33.0,0.1,3.8,32.0,0.08,0.6,0.5,0,5,C,52.0,C,NON,0,
+54,Coco Sans Sucres,alpro,5411188128311,Autre boisson,59.0,14.0,1.1,0.0,28.0,0.07,0.1,0.0,0,2,B,40.0,D,NON,3,"e412, e415, e418"
+55,"Alpro Sojadrink, Schokoladen-Geschmack, Protein 1L",alpro,5411188130055,Soda,291.0,69.0,0.6,5.0,64.0,0.16,5.0,1.3,0,2,B,94.0,A-PLUS,NON,2,"e340, e418"
+56,Bebida de almendra 0% azúcares,Hacendado,8480000239266,Autre boisson,64.0,16.0,0.3,0.0,32.0,0.08,0.5,0.0,0,1,B,71.0,B,NON,5,"e340, e340iii, e418, e452, e473"
+57,le bio pour toute la famille multifruit,pressade,3254691586054,Jus de fruits,159.0,38.0,0.0,8.2,0.0,0.0,0.0,0.0,0,10,E,54.0,C,OUI,0,
+58,Wasser Volvic naturelle,Volvic,3057640186158,Autre boisson,0.0,0.0,0.0,0.0,12.0,0.03,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+59,Fanta Orange,Fanta,5449000004840,Soda,81.0,19.0,0.0,4.5,8.0,0.02,0.0,0.0,0,8,D,,NOT-APPLICABLE,NON,5,"e202, e414, e444, e950, e959"
+60,Boisson Noisette,Bjorg,3229820181424,Boisson lactée,286.0,69.0,0.4,4.0,20.0,0.05,1.0,1.1,0,9,D,82.0,A,OUI,2,"e412, e415"
+61,"Alpro Mandeldrink Weiß Ungesüßt, Ungeröstet 1 LT",Alpro,5411188122661,Boisson lactée,56.0,13.0,0.1,0.0,56.0,0.14,0.5,0.2,0,1,B,59.0,C,NON,2,"e322, e418"
+62,jaouda p'tit dej honey,Jaouda,6111242109544,Boisson lactée,97.6,97.0,2.4,9.0,80.0,0.2,3.0,1.0,0,5,C,18.0,E,NON,0,
+63,Organic & unsweetened Almond,Plenish,5060362070474,Autre boisson,121.0,29.0,0.2,0.0,40.0,0.1,1.0,0.5,0,2,B,79.0,A,OUI,0,
+64,Whole Oat Drink,Oatly,7394376620713,Boisson lactée,248.0,59.0,0.3,3.4,40.0,0.1,1.1,0.8,0,7,D,56.0,C,NON,2,"e340, e340ii"
+65,Natural Coconut Cream,Kara,8886303210207,Boisson lactée,147.0,35.0,4.0,0.0,0.0,0.0,0.0,0.0,0,5,C,69.0,B,NON,3,"e407, e412, e415"
+66,PET 1L OCEAN SPRAY CLASS,Ocean Spray,1200101017825,Autre boisson,167.0,39.0,0.0,9.3,0.0,0.0,0.0,0.0,0,11,E,44.0,D,NON,0,
+67,"Tropicana 100% oranges pressées sans pulpe format familial 1,5 L",Tropicana,3502110006790,Jus de fruits,182.0,43.0,0.0,8.9,0.0,0.0,0.8,0.6,0,4,C,52.0,C,NON,0,
+68,CONTREX eau minérale naturelle 1L,Contrex,3179730115821,Eau,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+69,Schweppes Agrumes Zero,Schweppes,5410221305108,Soda,9.8,2.3,0.0,0.3,0.0,0.0,0.0,0.0,0,4,C,,NOT-APPLICABLE,NON,8,"e142, e14xx, e202, e300, e330, e445, e950, e955"
+70,Nectar Orange,Al Boustane,6111179003847,Jus de fruits,227.0,46.0,0.0,11.0,0.0,0.0,0.0,0.0,0,11,E,94.0,A-PLUS,NON,1,e330
+71,Cola Cao El Original,ColaCao,8410014478733,Soda,288.0,68.0,1.1,9.1,48.0,0.12,3.4,0.5,0,8,D,54.0,C,NON,0,
+72,PET 1.2L MAYTEA PECHE,May Tea,3124480195319,Thé,85.0,20.0,0.0,4.7,12.0,0.03,0.0,0.0,0,4,C,61.0,B,NON,4,"e296, e300, e330, e331"
+73,"Alpro Sojadrink, Ungesüßt fresh",Alpro,5411188106814,Boisson lactée,138.0,33.0,0.3,0.0,36.0,0.09,3.3,0.6,0,-5,B,73.0,B,NON,2,"e340, e418"
+74,Oat Barista Blend,Califia Farms,813636022953,Boisson lactée,229.0,54.0,0.2,2.8,48.0,0.12,0.8,0.8,0,6,C,52.0,C,NON,6,"e170, e170i, e340, e340ii, e341, e341iii"
+75,Organic Soya Unsweetened U.H.T.,Alpro,5411188511137,Boisson lactée,132.0,32.0,0.3,0.0,12.0,0.03,3.3,0.6,0,-5,B,93.0,A-PLUS,OUI,0,
+76,1L PUR JUS ORANGE JOKER NEW,Joker,3123349011227,Jus de fruits,172.0,41.0,0.0,8.5,0.0,0.0,0.8,0.0,0,4,C,47.0,C,NON,0,
+77,soya Vanille,Alpro,5411188115533,Boisson lactée,240.0,57.0,0.3,6.7,56.0,0.14,3.0,0.5,0,3,C,79.0,A,NON,2,"e340, e418"
+78,L'ben,Soummam,6130760003769,Boisson lactée,168.5,40.1,1.13,0.0,28.0,0.07,2.7,0.0,0,-1,B,45.0,C,NON,0,
+79,PET 1.2L MAYTEA MENTHE,May Tea,3124480195326,Thé,59.0,14.0,0.0,3.3,12.0,0.03,0.0,0.0,0,3,C,98.0,A-PLUS,NON,4,"e296, e300, e330, e331"
+80,Bulles de fruits Pamplemousse Touche de citron,Badoit,3068320118420,Eau,89.0,21.0,0.0,4.9,24.0,0.06,0.5,0.5,0,4,C,,NOT-APPLICABLE,NON,1,e330
+81,Soya Wholebean Unsweetened Drink U.H.T.,Alpro,5411188079996,Boisson lactée,138.0,33.0,0.3,0.0,35.0,0.087,3.3,0.6,0,-5,B,80.0,A,NON,2,"e340, e418"
+82,"PET 1,5L SCHWEPPES AGRUMES",Schweppes,3124480196262,Soda,81.0,19.0,0.0,4.4,4.0,0.01,0.0,0.0,0,8,D,,NOT-APPLICABLE,NON,7,"e14xx, e202, e300, e330, e445, e950, e955"
+83,Bebida de Avena Calcio y Vitaminas,Hacendado,8480000861672,Autre boisson,219.0,52.0,2.0,3.6,46.0,0.115,0.5,0.56,0,8,D,52.0,C,NON,2,"e415, e418"
+84,Bebida de Soja,Hacendado,8480000136824,Autre boisson,147.0,35.0,0.3,0.7,64.0,0.16,3.4,0.7,0,0,B,80.0,A,NON,3,"e418, e950, e955"
+85,Coca-Cola saveur cerise,Coca-Cola,5449000214843,Soda,182.0,43.0,0.0,10.7,0.0,0.0,0.0,0.0,0,12,E,,NOT-APPLICABLE,NON,2,"e150d, e338"
+86,Orangina 50cl,Orangina,8435185100955,Soda,184.0,43.0,0.0,10.1,0.0,0.0,0.1,0.0,0,10,E,,NOT-APPLICABLE,NON,2,"e202, e330"
+87,No Sugars Oat Drink,Oatly,7394376620867,Boisson lactée,184.0,44.0,0.2,0.0,47.0,0.117,1.0,0.7,0,3,C,52.0,C,NON,2,"e340, e340ii"
+88,"CRISTALINE Eau de Source Pétillante 0,5L",Cristaline,3254381016922,Eau,0.0,0.0,0.0,0.0,8.4,0.021,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+89,Pur jus de citron,"Jardin bio, Léa Nature",3456300002508,Jus de fruits,133.0,31.0,0.2,1.7,0.0,0.0,0.0,0.0,0,-3,B,54.0,C,OUI,0,
+90,Limonada natural,Don Simón,8410261657424,Soda,96.0,23.0,0.0,5.6,4.0,0.01,0.1,0.0,0,6,C,,NOT-APPLICABLE,NON,3,"e160a, e160ai, e300"
+91,Red Bull Sugarfree,Red Bull,90162800,Boisson énergisante,13.0,3.0,0.0,0.0,42.0,0.105,0.0,0.0,0,4,C,,NOT-APPLICABLE,NON,11,"e101, e101i, e150a, e290, e330, e415, e500, e504, e504i, e950, e951"
+92,Oat Milk,Actileaf,4061459290349,Boisson lactée,206.0,49.2,0.2,4.6,40.0,0.1,1.32,0.8,0,5,C,66.0,B,NON,0,
+93,Schweppes citron 45cl,Schweppes,5449000318947,Soda,82.0,19.2,0.0,11.0,0.0,0.0,0.0,0.0,0,14,E,,NOT-APPLICABLE,NON,5,"e211, e330, e414, e950, e951"
+94,Avoine,Carrefour,3245413451804,Boisson lactée,182.0,43.0,0.2,5.0,32.0,0.08,0.5,0.8,0,6,C,83.0,A,OUI,0,
+95,Super Smoothie Antioxydant,Innocent,5038862234115,Jus de fruits,230.0,54.0,0.1,11.0,40.0,0.1,0.5,1.1,0,7,D,39.0,D,NON,0,
+96,Boisson au soja,Vemondo,4056489695387,Boisson lactée,133.0,32.0,0.2,0.4,32.0,0.08,3.0,0.2,0,-4,B,99.0,A-PLUS,OUI,0,
+97,alpro sabor natural con coco,Alpro,5411188139126,Thé,231.0,55.0,1.1,2.1,128.0,0.32,3.9,0.8,0,1,B,43.0,D,NON,5,"e304, e306, e330, e331, e440"
+98,Lait Amande calcium,"Bio Village, Marque Repère",3564707117203,Boisson lactée,106.0,26.0,0.2,0.5,40.0,0.1,0.7,0.5,0,2,B,84.0,A,OUI,0,
+99,Evian 75cl PET,Evian,3068320014067,Eau,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+100,Eau minérale,Volvic,3057640265358,Eau,0.0,0.0,0.0,0.0,12.0,0.03,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+101,Orangina,Orangina,3124480184320,Soda,173.0,41.0,0.0,9.6,4.0,0.01,0.1,0.0,0,9,D,,NOT-APPLICABLE,NON,0,
+102,Club-Mate Original,"Club Mate,Loscher",4029764001807,Autre boisson,84.0,20.0,0.0,5.0,0.0,0.0,0.0,0.0,0,4,C,,NOT-APPLICABLE,NON,2,"e290, e330"
+103,Mandel Vanille Geschmack,Alpro,5411188120742,Boisson lactée,126.0,30.0,0.1,3.8,56.0,0.14,0.4,1.3,0,5,C,69.0,B,NON,3,"e322, e410, e418"
+104,High Protein Soja Drink,"Alpro, DANONE AS",5411188130031,Boisson lactée,239.0,57.0,0.5,2.5,40.0,0.1,5.0,0.9,0,-1,B,78.0,A,NON,2,"e340, e418"
+105,Eau minérale Ifri,Ifri,6130093010045,Eau,0.0,0.0,0.0,0.0,1.6,0.004,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+106,Jafaden,"Marque Repère, Jafaden",3564700494493,Jus de fruits,184.0,43.0,0.1,9.7,4.0,0.01,0.6,0.5,0,5,C,48.0,C,NON,0,
+107,Boisson au soja nature bio,"Bio Village, Marque Repère",3564707095723,Boisson lactée,154.0,37.0,0.4,0.7,4.0,0.01,3.7,0.7,0,-3,B,102.0,A-PLUS,OUI,0,
+108,"Coca-Cola Zero 1,25 Liter","Coca-Cola,Coca-Cola Company",5000112576009,Soda,0.9,0.2,0.0,0.0,8.0,0.02,0.0,0.0,0,4,C,,NOT-APPLICABLE,NON,7,"e150d, e290, e331, e338, e950, e951, e960c"
+109,Bebida de Avena,Yosoy,8423352100143,Autre boisson,198.0,47.0,0.1,4.8,12.0,0.03,1.6,0.7,0,4,C,63.0,B,NON,0,
+110,"Kokosnussdrink mit Soja, Barista",alpro,5411188119753,Boisson lactée,139.0,33.0,0.7,3.3,40.0,0.1,1.5,0.2,0,3,C,87.0,A,NON,4,"e170, e170i, e340, e418"
+111,Amande Sans sucres,"Carrefour BIO, Carrefour",3560071014094,Boisson lactée,106.0,26.0,0.2,0.5,40.0,0.1,0.7,0.5,0,2,B,89.0,A,OUI,0,
+112,Thé glacé pêche intense,"COCA-COLA, FuzeTea",5449000295750,Thé,79.0,19.0,0.0,4.4,12.0,0.03,0.0,0.0,0,8,D,58.0,C,NON,5,"e296, e300, e330, e331, e960a"
+113,Yeo Valley Organic Kefir Strawberry Fermented Yoghurt,Yeo Valley,5036589254270,Boisson lactée,331.0,79.0,1.3,9.5,44.0,0.11,4.2,0.1,0,10,E,44.0,D,OUI,0,
+114,Nestlé Pure Life,Nestlé,3700123300380,Eau,0.0,0.0,0.0,0.0,2.0,0.005,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+115,Le Bio Orange,Pressade,3254691586085,Jus de fruits,144.0,34.0,0.0,8.2,0.0,0.0,0.5,0.5,0,5,C,111.0,A-PLUS,OUI,0,
+116,Tropicana Multivitamines 1 L,Tropicana,3502110003201,Jus de fruits,204.0,48.0,0.0,10.7,0.0,0.0,0.0,0.0,0,12,E,31.0,D,NON,0,
+117,Tropicana 100% oranges pressées avec pulpe 1 L,Tropicana,3502110009401,Jus de fruits,179.0,42.0,0.0,8.6,0.0,0.0,0.8,0.8,0,4,C,48.0,C,NON,0,
+118,Boisson avoine,"Bio Village, Marque Repère",3564707105675,Boisson lactée,173.0,49.0,0.2,5.0,39.0,0.098,0.5,0.8,0,6,C,83.0,A,OUI,0,
+119,Besbassa,Sarl diar ezarga,6134082000017,Eau,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,2,"e164, e180"
+120,Coca-Cola Zero,Coca-Cola,5449000133724,Soda,1.3,0.3,0.0,0.0,4.0,0.01,0.0,0.0,0,4,C,,NOT-APPLICABLE,NON,4,"e150d, e950, e951, e952"
+121,Apa,Aqua Carpatica,59493518,Eau,0.0,0.0,0.0,0.0,0.7,0.002,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+122,AMINE,FAMI,6111035503191,Eau,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+123,Coca-Cola Zero Sugar 25cl,Coca-Cola,5449000020987,Soda,1.3,0.3,0.0,0.0,4.0,0.01,0.0,0.0,0,4,C,,NOT-APPLICABLE,NON,6,"e150d, e331, e338, e950, e951, e960c"
+124,"Alpro® Barista Mandeldrink, 1 L, UHT",Alpro,5411188129899,Autre boisson,99.0,24.0,0.1,2.5,32.0,0.08,0.5,0.3,0,4,C,63.0,B,NON,5,"e170, e170i, e340, e412, e418"
+125,Limonata,"Nestlé, San Pellegrino",8002270936777,Soda,147.0,35.0,0.0,8.0,0.0,0.0,0.1,0.1,0,8,D,,NOT-APPLICABLE,NON,1,e290
+126,Eau minérale naturelle,Vittel,3179732333919,Eau,0.0,0.0,0.0,0.0,0.5,0.001,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+127,SOJA Sans sucres ajoutés**,"Carrefour BIO, Carrefour, Groupe Carrefour",3270190128717,Boisson lactée,171.0,41.0,0.4,0.7,4.0,0.01,3.8,0.6,0,-3,B,89.0,A,OUI,0,
+128,Zumo pura naranja,Hacendado,8480000390103,Autre boisson,184.0,44.0,0.0,9.3,0.0,0.0,0.7,0.6,0,7,D,54.0,C,NON,0,
+129,Smoozy,Albane,6111250010207,Boisson lactée,352.0,84.0,1.3,9.2,40.0,0.1,2.2,0.0,0,13,E,17.0,E,NON,1,e330
+130,Orangina zéro,Orangina,3124480185020,Soda,19.0,4.0,0.0,0.5,8.0,0.02,0.1,0.0,0,4,C,,NOT-APPLICABLE,NON,3,"e202, e950, e955"
+131,"Not Milk 1,8",Alpro,5411188135005,Boisson lactée,182.0,44.0,0.3,0.0,44.0,0.11,0.7,1.0,0,3,C,61.0,B,NON,3,"e322, e340, e418"
+132,"Apă minerală naturală, natural carbogazoasă",Borsec,5942219115845,Eau,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+133,Original COCA-COLA,Coca cola,3174780000363,Soda,180.0,42.0,0.0,10.6,0.0,0.0,0.0,0.0,0,12,E,,NOT-APPLICABLE,NON,1,e150d
+134,Pur jus de citron,"Jardin bio, Léa Nature",3456300002492,Jus de fruits,133.0,31.0,0.2,1.7,4.0,0.01,0.0,0.0,0,-3,B,53.0,C,OUI,0,
+135,"Alpro Sojadrink Original fresh mit Calcium, 1 L, 11",Alpro,5411188091912,Boisson lactée,162.0,39.0,0.3,2.5,32.0,0.08,3.0,0.5,0,-1,B,73.0,B,NON,4,"e170, e170i, e340, e418"
+136,Tropicana Multivitamines format familial 1.5 L,Tropicana,5410188011326,Jus de fruits,199.0,47.0,0.0,11.0,0.0,0.0,0.5,0.6,0,6,C,26.0,E,NON,0,
+137,Fanta orange 1.5l,Fanta,5449000052926,Soda,203.0,48.0,0.0,11.7,0.0,0.0,0.0,0.0,0,13,E,,NOT-APPLICABLE,NON,1,e300
+138,Boisson à l'avoine,Oatly,7394376615979,Boisson lactée,196.0,48.0,0.2,3.5,40.0,0.1,1.1,0.8,0,5,C,63.0,B,NON,0,
+139,Boisson à l'avoine,Vemondo,4056489989356,Boisson lactée,154.0,37.0,0.2,3.3,32.0,0.08,0.4,1.0,0,5,C,77.0,A,OUI,0,
+140,"Schweppes agrumes aux saveurs d'orange,🍊de pamplemousse, de citron vert & de mandarine",SchweppesOrangina Schweppes,3124480186898,Soda,101.0,24.0,0.0,5.7,4.0,0.01,0.0,0.0,0,10,E,,NOT-APPLICABLE,NON,6,"e14xx, e202, e330, e445, e950, e955"
+141,Eau de source de montagne,Saguaro,40882475,Eau,0.1,0.1,0.1,0.1,440.0,1.1,0.1,0.1,0,5,A,,NOT-APPLICABLE,NON,0,
+142,NECTAR Pêche,Valencia,6111251750034,Jus de fruits,188.0,45.0,0.0,8.9,0.0,0.0,0.3,0.0,0,8,D,18.0,E,NON,1,e330
+143,Candy'Up Goût Chocolat🍫,Candia,3176571744289,Soda,263.0,62.0,0.6,9.7,36.0,0.09,3.2,0.6,0,6,C,29.0,E,NON,0,
+144,Almond Breeze Unsweetened Low Fat Milk Alternative,Blue Diamond Almonds,41570080146,Boisson lactée,53.0,13.0,0.1,0.0,60.0,0.15,0.5,0.0,0,1,B,64.0,B,NON,3,"e322, e322i, e418"
+145,Volvic Zest Citron,Volvic,3057640317743,Eau,19.0,4.0,0.0,0.9,4.0,0.01,0.0,0.0,0,1,B,,NOT-APPLICABLE,NON,1,e330
+146,Thé noir glacé saveur pêche intense,Fuze Tea,5449000232465,Thé,80.0,19.0,0.0,4.3,12.0,0.03,0.0,0.0,0,4,C,68.0,B,NON,4,"e296, e300, e330, e331"
+147,Jus de pomme,Lidl Solevita,4056489249603,Jus de fruits,192.0,45.0,0.0,10.0,4.0,0.01,0.5,0.0,0,5,C,60.0,B,NON,0,
+148,Oat,"Vemondo, Lidl",4056489804673,Boisson lactée,173.0,41.2,0.2,3.12,48.0,0.12,0.32,0.6,0,5,C,57.0,C,NON,0,
+149,Tesco Oat Drink,Tesco,5057753940317,Boisson lactée,199.0,47.0,0.2,4.2,40.0,0.1,0.5,0.7,0,6,C,57.0,C,NON,1,e418
+150,Pétillante Saveur Citron vert,"Lidl, Saguaro",20656942,Eau,1.0,0.0,0.0,0.0,4.0,0.01,0.0,0.0,0,0,B,,NOT-APPLICABLE,NON,0,
+151,Strawberries & Bananas,Innocent,5038862320108,Autre boisson,204.0,48.0,0.0,10.0,0.0,0.0,0.53,1.1,0,11,E,63.0,B,NON,0,
+152,Blackcurrant Flavored Drink with Nata de Coco,Mogu Mogu,8850389115367,Eau,213.0,50.0,0.0,12.0,44.0,0.11,0.0,0.5,0,14,E,,NOT-APPLICABLE,NON,4,"e133, e211, e327, e330"
+153,Aranciata Rossa (orange sanguine),"Nestlé, San Pellegrino",8002270506802,Soda,161.0,38.0,0.0,8.8,0.0,0.0,0.1,0.0,0,10,E,,NOT-APPLICABLE,NON,1,e290
+154,Coca-Cola Original 0.5,Coca-Cola,59492573,Soda,180.0,42.0,0.0,10.6,0.0,0.0,0.0,0.0,0,12,E,,NOT-APPLICABLE,NON,3,"e150d, e290, e338"
+155,Pj pomme pet 1l,Paquito,3250390880479,Jus de fruits,206.0,48.0,0.0,11.0,0.0,0.0,0.0,0.0,0,6,C,50.0,C,NON,0,
+156,"Innocent myrtille, cassis, pomme, cranberry",Innocent,5038862139137,Jus de fruits,192.0,45.3,0.07,10.0,2.7,0.007,0.33,0.33,0,5,C,26.0,E,NON,0,
+157,Lemon juice,Aldi,4088600099071,Jus de fruits,84.0,20.0,0.1,0.5,4.0,0.01,0.5,0.5,0,-5,B,31.0,D,NON,1,e224
+158,Tropico,Tropico,5449000012814,Soda,129.0,30.0,8.0,7.2,0.0,0.0,0.0,0.0,0,15,E,,NOT-APPLICABLE,NON,3,"e296, e300, e330"
+159,Bebida Choco Avena,Hacendado,8402001014369,Autre boisson,185.0,44.0,0.3,2.4,60.0,0.15,1.2,1.0,0,9,D,52.0,C,NON,4,"e412, e418, e950, e955"
+160,Organic soya drink,Plenish,5060362072263,Autre boisson,132.0,32.0,0.3,0.0,0.0,0.0,3.2,0.6,0,-5,B,89.0,A,OUI,0,
+161,Innocent Smooth Orange Juice,Innocent,5038862102704,Jus de fruits,149.0,35.0,0.1,7.8,4.0,0.01,0.7,0.7,0,8,D,51.0,C,NON,0,
+162,100% oranges sans pulpe,innocent,5038862162500,Jus de fruits,149.0,35.0,0.1,7.8,4.0,0.01,0.7,0.7,0,2,B,47.0,C,NON,0,
+163,Zumo pura naranja con pulpa,Hacendado,8480000390325,Jus de fruits,189.0,44.0,0.0,9.3,0.0,0.0,0.7,0.8,0,7,D,55.0,C,NON,0,
+164,Red Bull Energy Drink,Red Bull,90162565,Boisson énergisante,195.0,46.0,0.0,11.0,40.0,0.1,0.0,0.0,0,12,E,,NOT-APPLICABLE,NON,1,e150a
+165,Jus d'orange avec pulpe,Innocent,5038862160506,Jus de fruits,156.0,36.0,0.0,7.8,0.0,0.0,0.7,0.85,0,3,C,52.0,C,NON,0,
+166,Innocent jus ananas & fruit de la passion 900ml,Innocent,5038862166508,Jus de fruits,184.0,43.0,0.0,9.5,0.0,0.0,0.38,0.45,0,5,C,30.0,D,NON,0,
+167,Énergie Chérie,innocent,5038862130462,Jus de fruits,181.0,43.0,0.01,9.8,0.0,0.0,0.18,0.0,0,11,E,28.0,E,NON,0,
+168,Yaourt à boire sucré aromatisé,YoplaitYop,3329770063273,Boisson lactée,277.0,65.0,0.5,10.4,48.0,0.12,3.0,0.0,0,9,D,31.0,D,NON,0,
+169,Coca-Cola,Coca-Cola,5000112638769,Soda,180.0,42.0,0.0,10.6,0.0,0.0,0.0,0.0,0,12,E,,NOT-APPLICABLE,NON,2,"e150d, e338"
+170,Pepsi Zéro Sleek 33 cl,"Diet pepsi, Pepsi zero, Pepsico",3168930159742,Soda,2.0,0.4,0.0,0.0,4.0,0.01,0.0,0.0,0,4,C,,NOT-APPLICABLE,NON,6,"e150d, e330, e331, e338, e950, e951"
+171,Boisson avoine BIO 1l,"Les Mousquetaires, Regain, Sélection des Mousquetaires",3250392243517,Boisson lactée,183.0,43.0,0.2,4.7,32.0,0.08,0.5,0.8,0,6,C,85.0,A,OUI,0,
+172,Boisson avoine - 1L,"U, U Bio",3256223377406,Boisson lactée,182.0,43.0,0.2,5.0,32.0,0.08,0.5,0.8,0,6,C,82.0,A,OUI,0,
+173,Eau Minérale Naturelle des Alpes,"Marque Repère, E.Leclerc, Leclerc",3564700126790,Eau,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+174,Organic Coconut Drink imp,Rude health,5060120282347,Boisson lactée,223.0,53.0,1.0,4.2,40.0,0.1,0.1,0.7,0,7,D,61.0,B,OUI,0,
+175,Cola,Coca-Cola,5449000017888,Soda,180.0,42.0,0.0,10.6,0.0,0.0,0.0,0.0,0,12,E,,NOT-APPLICABLE,NON,3,"e150d, e290, e338"
+176,"Sprite Zero 1,5L","Sprite, The Coca-Cola Company, Coca-Cola Europacific Partners DE",5449000110039,Soda,5.0,1.0,0.0,0.0,12.0,0.03,0.0,0.0,0,0,B,,NOT-APPLICABLE,NON,0,
+177,Raïbi,albane,6111265800183,Jus de fruits,301.0,72.0,0.7,9.2,0.0,0.0,2.3,0.0,0,11,E,18.0,E,NON,0,
+178,Tasty Summer Fruits,Rocks,5023762000632,Soda,75.0,18.0,0.0,4.3,0.0,0.0,0.0,0.0,0,4,C,,NOT-APPLICABLE,NON,1,e330
+179,Boisson soja nature BIO 1l,"Regain, Regain Bio",3250391318353,Autre boisson,168.0,40.0,0.4,0.4,2.4,0.006,3.9,0.5,0,-4,B,95.0,A-PLUS,OUI,0,
+180,Tourtel 27.5 cl Tourtel Twist Lime 0.0 DEGRE ALCOOL,Tourtel twist,3080216050751,Autre boisson,132.0,32.0,0.0,5.3,4.0,0.01,0.2,0.0,0,6,C,41.0,D,NON,3,"e290, e330, e414"
+181,Orangina,Orangina,3124480167026,Soda,175.0,41.0,0.0,9.6,4.0,0.01,0.1,0.0,0,9,D,,NOT-APPLICABLE,NON,1,e202
+182,Oatly! Bio Hafer/Oat,Oatly,7394376615894,Boisson lactée,166.0,39.0,0.1,3.4,40.0,0.1,1.1,0.8,0,5,C,81.0,A,OUI,0,
+183,Volvic essentiel bio,Volvic,3057640514098,Eau,10.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,B,,NOT-APPLICABLE,OUI,0,
+184,Aïn saïss citron citron vert,Aïn Saïs,6111128000224,Eau,85.1,20.3,0.0,0.0,0.0,0.0,0.0,0.0,0,1,B,,NOT-APPLICABLE,NON,0,
+185,Yakult original,Yakult,8713108000835,Boisson lactée,280.0,66.0,0.0,13.6,16.0,0.04,1.3,0.0,0,15,E,30.0,D,NON,0,
+186,"1,5L FRAISE VOLVIC","Danone,Volvic",3057640467233,Eau,83.0,20.0,0.0,4.9,4.0,0.01,0.5,0.0,0,4,C,,NOT-APPLICABLE,NON,0,
+187,Jus d'orange sans pulpe,innocent,5038862134729,Jus de fruits,149.0,35.0,0.1,7.8,4.0,0.01,0.7,0.7,0,2,B,52.0,C,NON,0,
+188,Coca-Cola Zero Zero,Coca-Cola,5449000169327,Soda,0.9,0.3,0.0,0.0,10.0,0.025,0.0,0.0,0,4,C,,NOT-APPLICABLE,NON,6,"e150d, e331, e338, e950, e951, e952"
+189,iKaffe,OAT-LY!,7394376616037,Boisson lactée,255.0,61.0,0.3,3.4,0.1,0.0,1.1,0.8,0,7,D,63.0,B,NON,2,"e340, e340ii"
+190,"No Milk Hafer 3,5% Fett","Lidl, Vemondo",4056489708995,Boisson lactée,222.0,53.0,0.3,1.2,52.0,0.13,0.8,1.1,0,5,C,61.0,B,NON,4,"e170, e170i, e340, e418"
+191,Kong Strong Wild Power Sugar Free,Lidl,20917609,Boisson énergisante,15.0,4.0,0.1,0.1,76.0,0.19,0.4,0.0,0,4,C,,NOT-APPLICABLE,NON,5,"e150a, e330, e331, e950, e951"
+192,"Alpro Fermentiertes Sojaprodukt, Heidelbeere, 500g",Alpro,5411188102809,Autre boisson,293.0,70.0,0.4,7.9,60.0,0.15,3.7,1.0,0,5,C,43.0,D,NON,4,"e304, e330, e331, e440"
+193,"Alpro Sojadrink, Banane 1L",Alpro,5411188116905,Boisson lactée,243.0,58.0,0.3,6.0,56.0,0.14,3.0,0.6,0,3,C,79.0,A,NON,2,"e340, e418"
+194,JOKER LE BIO MULTIFRUIT 1L,Joker,3123349014433,Jus de fruits,167.0,40.0,0.0,8.6,0.0,0.0,0.0,0.0,0,4,C,46.0,C,OUI,0,
+195,100% Pur Jus - Pomme,"CMI (Carrefour Marchandises Internationales), Carrefour, Groupe Carrefour",3560070275267,Jus de fruits,197.0,47.0,0.0,10.0,4.0,0.01,0.0,0.0,0,5,C,63.0,B,NON,0,
+196,Volvic Juicy Fraise,"Volvic,Volvic juicy",3057640458828,Eau,83.0,20.0,0.0,4.9,4.0,0.01,0.5,0.0,0,4,C,,NOT-APPLICABLE,NON,0,
+197,Le Fruit - Orange sans pulpe,Joker,3123340008288,Jus de fruits,178.0,42.0,0.0,8.7,4.0,0.01,0.6,0.0,0,4,C,84.0,A,NON,0,
+198,Super smoothie energy 750ml,Innocent,5038862239677,Autre boisson,224.0,53.0,0.0,10.0,0.0,0.0,1.5,1.4,0,5,C,43.0,D,NON,0,
+199,Acqua minerale naturale,Uliveto,8008490000021,Autre boisson,0.0,0.0,0.0,0.0,64.0,0.16,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+200,[Coca-Cola] Carbonated softdrink with cola taste,The Coca-Cola Company,5000112651324,Soda,180.0,42.0,0.0,10.6,0.0,0.0,0.0,0.0,0,12,E,,NOT-APPLICABLE,NON,3,"e150d, e290, e338"
+201,Coconut Milk,Aldi/Actileaf,4061459329001,Boisson lactée,106.0,25.0,1.0,2.5,51.0,0.128,0.3,0.2,0,4,C,58.0,C,NON,1,e418
+202,Bio-Haferdrink Natur,"My Vay, Aldi, DE-VAU-GE Gesundkostwerk, Mona Naturprodukte",4061459133271,Boisson lactée,170.0,40.0,0.1,4.2,32.0,0.08,0.7,0.5,0,6,C,83.0,A,OUI,0,
+203,Bebida de avena calcio,Vemondo,20659318,Autre boisson,196.0,46.0,0.1,6.3,28.0,0.07,1.4,0.2,0,7,D,63.0,B,NON,1,e418
+204,100% pur jus orange sans pulpe,Paquito,3250390001287,Jus de fruits,187.0,43.0,0.1,8.5,4.0,0.01,0.7,0.5,0,4,C,43.0,D,NON,0,
+205,Smooth Orange Juice,Tropicana,5022313729824,Jus de fruits,172.0,40.0,0.0,8.6,0.0,0.0,0.8,0.0,0,4,C,57.0,C,NON,0,
+206,Schweppes,Schweppes,5449000046413,Soda,2.0,19.8,0.0,4.4,16.0,0.04,1.0,2.0,0,3,C,,NOT-APPLICABLE,NON,4,"e104, e202, e300, e414"
+207,Thé vert glacé saveur citron vert & menthe,FUZE TEA,5449000266002,Thé,79.0,19.0,0.0,4.4,20.0,0.05,0.0,0.0,0,8,D,62.0,B,NON,4,"e300, e330, e331, e960"
+208,Trip CBD Infused Elderflower Mint,Trip,5070000120706,Autre boisson,32.0,8.0,0.0,1.5,0.0,0.0,0.0,0.0,0,2,B,66.0,B,NON,2,"e330, e968"
+209,Innocent smoothie for kids,Innocent,5038862634106,Autre boisson,210.0,50.0,0.1,10.0,4.0,0.01,0.5,0.6,0,7,D,44.0,D,NON,0,
+210,ALMOMD MILK,Rude health,5060120285744,Boisson lactée,236.0,56.0,0.3,4.7,32.0,0.08,0.2,0.0,0,7,D,57.0,C,NON,0,
+211,Préparation Citrons pressés,Andros,3045320104530,Autre boisson,180.0,43.0,0.0,10.0,8.0,0.02,0.2,0.4,0,11,E,53.0,C,NON,0,
+212,"Pepsi 1,5L",Pepsi,3502110008329,Soda,78.0,18.0,0.0,4.6,0.0,0.0,0.0,0.0,0,8,D,,NOT-APPLICABLE,NON,4,"e150d, e338, e950, e955"
+213,Coca Cola Zero Sugar,Coca Cola,5000112552232,Soda,2.3,1.0,0.0,0.0,20.0,0.05,0.0,0.0,0,4,C,,NOT-APPLICABLE,NON,7,"e150d, e290, e331, e338, e950, e951, e960c"
+214,Fanta tropical exotic,Fanta,5449000083142,Soda,176.0,41.3,0.0,10.1,0.0,0.0,0.0,0.0,0,12,E,,NOT-APPLICABLE,NON,3,"e160, e202, e330"
+215,Coca-Cola sans sucres,Coca-Cola,90357473,Soda,1.4,0.3,0.0,0.0,8.0,0.02,0.0,0.0,0,4,C,,NOT-APPLICABLE,NON,5,"e150d, e331, e338, e950, e951"
+216,SANPELLEGRINO Momenti boisson gazeuse aromatise clémentine pêche 33cl,"Nestlé, San Pellegrino, Momenti, Sanpellegrino",8002270666667,Eau,44.0,10.0,0.0,2.0,0.0,0.0,0.0,0.0,0,2,B,,NOT-APPLICABLE,NON,2,"e290, e330"
+217,Fraise et Citron,Pulco,3124480183347,Autre boisson,220.0,52.0,0.0,11.6,4.0,0.01,0.1,0.0,0,20,E,42.0,D,NON,1,e330
+218,SOJA à la VANILLE,"Carrefour BIO, Carrefour",3245411157944,Boisson lactée,195.0,46.0,0.3,4.0,60.0,0.15,3.2,0.7,0,-1,B,101.0,A-PLUS,OUI,0,
+219,coca cola,Coca-Cola,5000112548068,Soda,180.0,42.0,0.0,10.6,0.0,0.0,0.0,0.0,0,12,E,,NOT-APPLICABLE,NON,3,"e150d, e290, e338"
+220,Thé vert menthe intense menthe verte & menthe poivrée,Lipton,8720608025657,Thé,17.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,B,100.0,A-PLUS,NON,0,
+221,Le Lait Ribot,Paysan Breton,3218930156002,Boisson lactée,243.0,58.0,2.3,4.0,40.0,0.1,3.3,0.0,0,3,C,44.0,D,NON,0,
+222,Tropicana Pamplemousse rose 1 L,Tropicana,3502110004239,Jus de fruits,164.0,39.0,0.0,7.6,0.0,0.0,0.5,0.9,0,3,C,31.0,D,NON,0,
+223,Soia,Alpro,5411188553304,Autre boisson,170.0,40.0,0.3,2.8,36.0,0.09,3.0,0.4,0,-1,B,80.0,A,NON,2,"e340, e418"
+224,Limonada natural light,Don Simón,8410261626802,Soda,97.0,23.0,0.0,5.6,4.0,0.01,0.1,0.0,0,10,E,,NOT-APPLICABLE,NON,1,e955
+225,Eau petillante,Saguaro,4056489105619,Eau,0.0,0.0,0.0,0.0,14.5,0.036,0.0,0.0,0,0,B,,NOT-APPLICABLE,NON,0,
+226,Haferdrink Natur,DmBio,4067796002003,Autre boisson,168.0,40.0,0.2,5.2,52.0,0.13,0.6,0.5,0,7,D,52.0,C,OUI,0,
+227,Coca-Cola,"Coca-Cola, Coca-Cola company, The Coca Cola Company",5000112545326,Soda,180.0,42.0,0.0,10.6,0.0,0.0,0.0,0.0,0,12,E,,NOT-APPLICABLE,NON,3,"e150d, e290, e338"
+228,Innocent jus pomme & framboise 900ml,Innocent,5038862165501,Jus de fruits,181.0,42.7,0.0,9.33,0.0,0.0,0.19,0.67,0,5,C,30.0,D,NON,0,
+229,"Alpro Sojadrink, Barista 1L",DANONE AS,5411188115434,Autre boisson,177.0,42.0,0.3,2.5,40.0,0.1,3.3,0.6,0,-2,B,80.0,A,NON,4,"e170, e170i, e340, e418"
+230,AQUA CARPATICA,,5942326402272,Eau,0.0,0.0,0.0,0.0,2.8,0.007,0.0,0.0,0,0,B,,NOT-APPLICABLE,NON,0,
+231,Lait saveur cacao,ENVIA,20527488,Soda,292.0,69.0,1.0,10.0,52.0,0.13,3.0,0.7,0,8,D,54.0,C,NON,4,"e331, e407, e460, e466"
+232,CRISTALINE Eau de Source au jus de fruits FRAISE 50cl,Cristaline,3254381048343,Eau,67.0,16.0,0.0,3.7,0.0,0.0,0.0,0.0,0,4,C,,NOT-APPLICABLE,NON,1,e330
+233,Lait Demi-Ecrémé - Stérilisé UHT,"E.Leclerc, Eco +, Eco+, Leclerc",3450970102124,Boisson lactée,193.0,46.0,1.0,4.8,44.0,0.11,3.3,0.0,0,-1,B,60.0,B,NON,0,
+234,Pur jus de citron,"Carrefour BIO, Carrefour",3560070483471,Jus de fruits,116.0,27.0,0.0,2.0,0.0,0.0,0.0,0.0,0,-3,B,54.0,C,OUI,0,
+235,apple juice,Innocent,5038862104708,Jus de fruits,180.0,45.0,0.0,9.5,0.0,0.0,0.2,0.5,0,7,D,58.0,C,NON,1,e300
+236,Lalla Khedidja,Cevital,6130234001161,Eau,0.0,0.0,0.0,0.0,0.6,0.001,0.0,0.0,0,0,A,,NOT-APPLICABLE,NON,0,
+237,S.pellegrino,"Nestlé, San Pellegrino",8002270776823,Eau,3.0,1.0,0.0,0.0,4.0,0.01,0.0,0.0,0,0,B,,NOT-APPLICABLE,NON,0,
+238,Cranberry drink,Mcennedy,4056489651086,Jus de fruits,154.0,36.0,0.0,8.4,12.0,0.03,0.1,0.0,0,10,E,26.0,E,NON,0,
+239,Oatly Barista Organic Oat Drink,Oatly,7394376621673,Boisson lactée,248.0,59.0,0.3,2.2,40.0,0.1,1.0,0.7,0,7,D,77.0,A,OUI,2,"e501, e501i"
+240,Unsweetened Soya,Sainsbury's,1550368,Boisson lactée,54.4,13.2,0.12,0.2,14.4,0.036,1.36,0.24,0,0,B,80.0,A,NON,1,e418
+241,Tropicana Pommes pressées Pink Lady 1 L,Tropicana,3502110005670,Jus de fruits,198.0,47.0,0.0,11.0,0.0,0.0,0.1,0.6,0,8,D,54.0,C,NON,1,e300
+242,Pur jus de pomme bio,Bjorg,3229820010991,Jus de fruits,194.0,46.0,0.0,10.0,1.0,0.0,0.1,0.1,100,2,B,90.0,A,OUI,0,
+243,Pur jus d'orange bio,Bjorg,3229820010984,Jus de fruits,188.0,44.0,0.0,8.9,1.0,0.0,0.7,0.2,100,1,B,88.0,A,OUI,0,
+244,Pur jus de raisin bio,Carrefour Bio,3560071139988,Jus de fruits,260.0,61.0,0.0,14.5,2.0,0.0,0.3,0.1,100,6,C,85.0,A,OUI,0,
+245,Pur jus multifruits bio,Monoprix Bio,3350032477826,Jus de fruits,200.0,47.0,0.0,10.5,1.0,0.0,0.4,0.2,100,2,B,87.0,A,OUI,0,
+246,Pur jus d'ananas bio,Alter Eco,3760018930115,Jus de fruits,205.0,48.0,0.0,10.5,2.0,0.0,0.4,0.3,100,2,B,75.0,B,OUI,0,
+247,Boisson soja nature bio sans sucres,Bjorg,3229820787022,Boisson lactée,138.0,33.0,0.3,0.0,36.0,0.09,3.3,0.6,0,-5,A,80.0,A,OUI,2,"e340, e418"
+248,Boisson avoine bio nature,Oatly,7394376616211,Boisson lactée,166.0,39.0,0.1,3.4,0.1,0.0,1.1,0.8,0,5,C,77.0,A,OUI,0,
+249,Boisson riz bio nature,The Bridge,8019428004325,Boisson lactée,226.0,54.0,0.2,4.2,60.0,0.15,0.3,0.2,0,5,C,72.0,B,OUI,0,
+250,Boisson coco bio,Autour du riz,3700899200014,Boisson lactée,75.0,18.0,1.4,0.7,8.0,0.02,0.2,0.1,0,1,B,68.0,B,OUI,1,e412
+251,Thé vert bio,Clipper,5021991904615,Thé,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,A,92.0,A,OUI,0,
+252,Infusion menthe bio,Pukka,5060229011794,Thé,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,A,90.0,A,OUI,0,
+253,Thé glacé pêche bio sans sucres,Honest Tea,884394004819,Thé,79.0,19.0,0.0,4.5,2.0,0.0,0.0,0.0,5,2,B,75.0,B,OUI,0,
+254,Smoothie fraise banane bio,Innocent,5000294000339,Autre boisson,220.0,52.0,0.1,10.3,1.0,0.0,0.6,1.2,100,1,B,70.0,B,OUI,0,
+255,Smoothie mangue passion bio,Bjorg,3229820140025,Autre boisson,234.0,55.0,0.1,11.5,2.0,0.0,0.5,1.0,100,2,B,73.0,B,OUI,0,
+256,Pur jus de tomate bio,Knorr,8712566445110,Jus de fruits,79.0,19.0,0.0,3.2,200.0,0.5,0.8,0.8,100,2,B,80.0,A,OUI,0,
+257,Pur jus de carotte bio,Biotta,7610079100105,Jus de fruits,134.0,32.0,0.1,6.0,44.0,0.11,0.7,0.5,100,1,B,82.0,A,OUI,0,
+258,Limonade bio,Lorina,3252920000156,Soda,159.0,38.0,0.0,9.0,1.0,0.0,0.0,0.0,10,4,C,65.0,B,OUI,0,
+259,Kombucha gingembre bio,Karma,5060561290019,Autre boisson,92.0,22.0,0.0,4.8,5.0,0.01,0.1,0.0,0,2,B,78.0,A,OUI,0,
+260,Eau de coco bio,Cocobella,9300657001317,Autre boisson,80.0,19.0,0.0,3.6,40.0,0.1,0.2,0.4,100,1,B,72.0,B,OUI,0,
+261,Nectar de poire bio,Alce Nero,8009004810556,Jus de fruits,210.0,49.0,0.0,11.0,1.0,0.0,0.1,0.5,50,3,B,74.0,B,OUI,0,
+262,Jus ACE bio (orange-carotte-citron),Voelkel,4015533021220,Jus de fruits,188.0,44.0,0.1,9.2,15.0,0.04,0.5,0.3,100,1,B,85.0,A,OUI,0,
+263,Nectar de mangue bio,Jardin BiO,3760099533601,Jus de fruits,218.0,51.0,0.0,11.8,1.0,0.0,0.2,0.4,50,3,C,71.0,B,OUI,0,
+264,Boisson avoine-amande bio,Lima,5411788044035,Boisson lactée,163.0,39.0,0.2,3.1,40.0,0.1,0.9,0.7,0,3,C,76.0,A,OUI,0,
+265,Pur jus pomme-poire bio,Pressade,3033710062508,Jus de fruits,201.0,47.0,0.0,10.2,1.0,0.0,0.2,0.2,100,2,B,86.0,A,OUI,0,
+266,Jus de pomme-framboise bio,Côteaux Nantais,3123930104810,Jus de fruits,198.0,46.0,0.0,10.1,1.0,0.0,0.2,0.2,100,2,B,88.0,A,OUI,0,
+267,Jus de grenade bio,Granaline,3760234550098,Jus de fruits,234.0,55.0,0.0,12.5,2.0,0.0,0.3,0.1,100,4,C,76.0,A,OUI,0,
+268,Boisson noisette bio,EcoMil,8428532230016,Boisson lactée,180.0,43.0,0.3,2.8,25.0,0.06,0.5,0.4,0,4,C,79.0,A,OUI,0,
+269,Jus de cranberry bio,Cranberry Classic,4015533012501,Jus de fruits,176.0,41.0,0.0,9.2,3.0,0.0,0.1,0.1,100,1,B,82.0,A,OUI,0,
+270,Eau aromatisée citron-menthe bio,Volvic Touch,3057640355837,Eau,6.0,1.0,0.0,0.3,8.0,0.02,0.0,0.0,1,0,B,,NOT-APPLICABLE,OUI,0,
+271,Boisson épeautre bio,Natumi,4038375011600,Boisson lactée,155.0,37.0,0.2,2.8,30.0,0.07,0.6,0.3,0,3,C,78.0,A,OUI,0,
+272,Jus de pamplemousse rose bio,Vitamont,3123930105510,Jus de fruits,167.0,39.0,0.0,8.5,1.0,0.0,0.5,0.1,100,1,B,84.0,A,OUI,0,
+273,Infusion verveine bio,Yogi Tea,4012824402201,Thé,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,A,91.0,A,OUI,0,
+274,Citronnade bio,Galvanina,8005850000016,Soda,134.0,32.0,0.0,7.5,1.0,0.0,0.0,0.0,12,3,C,70.0,B,OUI,0,
+275,Thé noir bio Earl Grey,English Tea Shop,5060213013001,Thé,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,-1,A,93.0,A,OUI,0,
