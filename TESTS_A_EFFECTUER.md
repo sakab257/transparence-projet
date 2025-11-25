@@ -95,11 +95,11 @@ streamlit run interface_streamlit.py
 
 ### Test 3.2 : Page Accueil
 **À vérifier** :
-- [ ] Titre du projet affiché
-- [ ] Statistiques de la base de données
-- [ ] Distribution des labels Nutri-Score
-- [ ] Nombre de produits BIO
-- [ ] Aucun emoji dans le texte
+- [x] Titre du projet affiché
+- [x] Statistiques de la base de données
+- [x] Distribution des labels Nutri-Score
+- [x] Nombre de produits BIO
+- [x] Aucun emoji dans le texte
 
 ### Test 3.3 : Page Calculateur Nutri-Score
 **À tester** :
@@ -115,10 +115,10 @@ streamlit run interface_streamlit.py
    - Type: Soda
 
 **À vérifier** :
-- [ ] Le score est calculé automatiquement
-- [ ] Le label est affiché (attendu: E)
-- [ ] Les détails (N et P) sont affichés
-- [ ] Pas d'erreur
+- [x] Le score est calculé automatiquement
+- [x] Le label est affiché (attendu: E)
+- [x] Les détails (N et P) sont affichés
+- [x] Pas d'erreur
 
 ### Test 3.4 : Page ELECTRE TRI
 **À tester** :
@@ -128,32 +128,32 @@ streamlit run interface_streamlit.py
 4. Sélectionner "Optimiste" et λ=0.7
 
 **À vérifier pour chaque test** :
-- [ ] Matrice de confusion affichée avec :
+- [x] Matrice de confusion affichée avec :
   - Axe X (horizontal) : A', B', C', D', E' (nouveau score ELECTRE)
   - Axe Y (vertical) : A, B, C, D, E (Nutri-Score référence)
-- [ ] Accuracy affichée
-- [ ] Distribution des classes affichée
-- [ ] Graphiques clairs et lisibles
+- [x] Accuracy affichée
+- [x] Distribution des classes affichée
+- [x] Graphiques clairs et lisibles
 
 ### Test 3.5 : Page SuperNutri-Score
 **À vérifier** :
-- [ ] Matrice de confusion SuperNutri vs Nutri-Score
-- [ ] Top 5 meilleurs produits (attendu: produits BIO classe A)
-- [ ] Top 5 pires produits (attendu: produits classe E)
-- [ ] Distribution des classes SuperNutri-Score
-- [ ] Graphiques affichés correctement
+- [x] Matrice de confusion SuperNutri vs Nutri-Score
+- [x] Top meilleurs produits (attendu: produits BIO classe A)
+- [x] Top pires produits (attendu: produits classe E)
+- [x] Distribution des classes SuperNutri-Score
+- [x] Graphiques affichés correctement
 
 ### Test 3.6 : Page Analyse Comparative
 **À vérifier** :
-- [ ] Tableau comparatif des 5 méthodes :
+- [x] Tableau comparatif des 5 méthodes :
   - ELECTRE TRI Pessimiste λ=0.6
   - ELECTRE TRI Optimiste λ=0.6
   - ELECTRE TRI Pessimiste λ=0.7
   - ELECTRE TRI Optimiste λ=0.7
   - SuperNutri-Score
-- [ ] Graphique de comparaison des accuracy
-- [ ] Analyse par catégorie (top 5 catégories)
-- [ ] Pour chaque catégorie : distribution Nutri-Score, moyenne Sucres, moyenne Additifs
+- [x] Graphique de comparaison des accuracy
+- [x] Analyse par catégorie (top 5 catégories)
+- [x] Pour chaque catégorie : distribution Nutri-Score, moyenne Sucres, moyenne Additifs
 
 ---
 
@@ -231,14 +231,14 @@ EOF
 
 ## Checklist finale avant rendu
 
-- [ ] Tous les tests de la base de données passent
-- [ ] Tous les algorithmes fonctionnent correctement
-- [ ] L'interface Streamlit est fonctionnelle sur toutes les pages
-- [ ] Aucun emoji dans le code
-- [ ] Les matrices de confusion ont les bons axes (X: A', B', C', D', E' / Y: A, B, C, D, E)
-- [ ] Le code est propre et commenté
-- [ ] Les 4 fichiers principaux sont présents
-- [ ] La documentation est claire
+- [x] Tous les tests de la base de données passent
+- [x] Tous les algorithmes fonctionnent correctement
+- [x] L'interface Streamlit est fonctionnelle sur toutes les pages
+- [x] Aucun emoji dans le code
+- [x] Les matrices de confusion ont les bons axes (X: A', B', C', D', E' / Y: A, B, C, D, E)
+- [x] Le code est propre et commenté
+- [x] Les 4 fichiers principaux sont présents
+- [x] La documentation est claire
 
 ---
 

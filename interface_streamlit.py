@@ -600,7 +600,30 @@ elif page == "Analyse Comparative":
                         'Méthode': methode.capitalize(),
                         'Précision': metriques['accuracy']
                     })
+                    
+            # SuperNutri-Score dans la comparaison
+            resultats_super = []
+            for idx, row in df.iterrows():
+                super_score = SuperNutriScore.calculer_super_score(
+                    row['Label_Nutriscore'],
+                    row['Label_Greenscore'] if pd.notna(row['Label_Greenscore']) else 'NOT-APPLICABLE',
+                    row['Label_Bio']
+                )
+                resultats_super.append(super_score['classe'])
             
+            df['SuperNutri_Classe'] = resultats_super
+            
+            matrice_super = AnalyseResultats.matrice_confusion(
+                df['Label_Nutriscore'],
+                df['SuperNutri_Classe']
+            )
+            metriques_super = AnalyseResultats.calculer_metriques(matrice_super)
+            
+            resultats_comp.append({
+                'λ': '-',
+                'Méthode': 'SuperNutri-Score',
+                'Précision': metriques_super['accuracy']
+            })
             df_comp = pd.DataFrame(resultats_comp)
 
             # Graphique
@@ -648,8 +671,9 @@ elif page == "Analyse Comparative":
                     st.plotly_chart(fig, use_container_width=True)
                 
                 with col2:
-                    stats = df_cat[['Energie_kcal', 'Sucres_g', 'Proteines_g', 'Nombre_Additifs']].describe()
-                    st.dataframe(stats.T, use_container_width=True)
+                    stats = df_cat[['Energie_kcal', 'Sucres_g', 'Proteines_g', 'Nombre_Additifs']].agg(['count', 'mean'])
+                    stats.index = ['Nombre', 'Moyenne']
+                    st.dataframe(stats.T.round(1), use_container_width=True)
 
 # Footer
 st.markdown("---")
