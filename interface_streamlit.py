@@ -345,7 +345,7 @@ elif page == "ELECTRE TRI":
                 
                 st.markdown("### Profils limites (b1 à b6)")
                 st.info("b6 = meilleur profil (A) | b1 = pire profil (E)")
-                st.dataframe(profils.T.style.background_gradient(cmap='RdYlGn_r', axis=1), 
+                st.dataframe(profils.T.style.background_gradient(cmap='RdYlGn_r', axis=1),
                            use_container_width=True)
                 
                 electre = ElectreTri(poids, profils, lambda_seuil)
@@ -356,31 +356,44 @@ elif page == "ELECTRE TRI":
                 st.markdown(f"### Résultats - Procédure {methode}")
                 
                 col1, col2 = st.columns([3, 2])
-                
+
                 with col1:
                     classes_count = df_resultat[colonne_classe].value_counts().sort_index()
-                    
+
+                    # S'assurer d'avoir toutes les classes A-E (remplir avec 0 si manquantes)
+                    all_classes = ['A', 'B', 'C', 'D', 'E']
+                    classes_completes = pd.Series({c: classes_count.get(c, 0) for c in all_classes})
+
+                    # Labels avec apostrophes pour l'affichage
+                    labels_display = [f"{c}'" for c in all_classes]
+
                     fig = px.bar(
-                        x=classes_count.index,
-                        y=classes_count.values,
-                        labels={'x': 'Classe', 'y': 'Nombre de produits'},
-                        color=classes_count.index,
+                        x=labels_display,
+                        y=classes_completes.values,
+                        labels={'x': 'Classe ELECTRE TRI', 'y': 'Nombre de produits'},
+                        color=labels_display,
                         color_discrete_map={
-                            'A': '#038141', 'B': '#85BB2F', 'C': '#FECB02',
-                            'D': '#EE8100', 'E': '#E63E11'
+                            "A'": '#038141', "B'": '#85BB2F', "C'": '#FECB02',
+                            "D'": '#EE8100', "E'": '#E63E11'
                         },
-                        text=classes_count.values,
-                        title=f"Distribution - {methode}"
+                        text=classes_completes.values,
+                        title=f"Distribution ELECTRE TRI - Procédure {methode}"
                     )
-                    fig.update_traces(textposition='outside')
-                    fig.update_layout(showlegend=False, height=400)
+                    fig.update_traces(textposition='outside', textfont_size=14)
+                    fig.update_layout(
+                        showlegend=False,
+                        height=450,
+                        xaxis_title_font_size=14,
+                        yaxis_title_font_size=14,
+                        title_font_size=16
+                    )
                     st.plotly_chart(fig, use_container_width=True)
                 
                 with col2:
                     st.markdown("#### Statistiques")
                     for classe in classes_count.index:
                         pct = classes_count[classe] / len(df) * 100
-                        st.metric(f"Classe {classe}", f"{classes_count[classe]} ({pct:.1f}%)")
+                        st.metric(f"Classe {classe}'", f"{classes_count[classe]} ({pct:.1f}%)")
                 
                 st.markdown("### Comparaison avec Nutri-Score")
                 
@@ -410,13 +423,13 @@ elif page == "ELECTRE TRI":
                 
                 with col2:
                     metriques = AnalyseResultats.calculer_metriques(matrice)
-                    st.metric("Accuracy", f"{metriques['accuracy']:.1%}")
-                    
+                    st.metric("Précision", f"{metriques['accuracy']:.1%}")
+
                     st.markdown("#### Métriques par classe")
-                    for classe in ['A', 'B', 'C', 'D', 'E']:
+                    for classe in ["A", "B", "C", "D", "E"]:
                         if classe in metriques['par_classe']:
                             m = metriques['par_classe'][classe]
-                            with st.expander(f"Classe {classe}"):
+                            with st.expander(f"Classe {classe}'"):
                                 st.write(f"Précision: {m['precision']:.1%}")
                                 st.write(f"Rappel: {m['rappel']:.1%}")
                                 st.write(f"F1-Score: {m['f1_score']:.1%}")
@@ -472,7 +485,7 @@ elif page == "SuperNutri-Score":
                     super_count = df_final['SuperNutri_Classe'].value_counts().sort_index()
                     
                     fig = px.bar(
-                        labels=dict(x="Nutri-Score", y="Quantité", color="Nombre"),
+                        labels=dict(x="SuperNutri-Score", y="Quantité", color="Nombre"),
                         x=super_count.index,
                         y=super_count.values,
                         color=super_count.index,
