@@ -1,4 +1,4 @@
-# 🥗 SuperNutriScore V2
+# 🥗 SuperNutriScore
 
 ## 📌 Utilisation de l'IA
 
@@ -9,9 +9,9 @@ Nous avons utilisé l'IA dans notre projet pour plusieurs objectifs :
 
 ## 📌 Description du projet
 
-**SuperNutriScore** est un projet académique de M2 ID-SITN à Dauphine-PSL qui implémente et compare trois méthodes d'évaluation nutritionnelle des boissons :
+**SuperNutriScore** est un projet académique du Groupe BOUSKINE (M2 MIAGE SITN) à Dauphine-PSL qui implémente et compare trois méthodes d'évaluation nutritionnelle des boissons :
 
-1. **Nutri-Score BOISSONS** (algorithme officiel 2024)
+1. **Nutri-Score BOISSONS** (algorithme officiel mars 2025)
 2. **ELECTRE TRI** (méthode de classification multicritère)
 3. **SuperNutri-Score** (combinaison Nutri-Score + Green-Score + Label BIO)
 
@@ -19,7 +19,7 @@ Nous avons utilisé l'IA dans notre projet pour plusieurs objectifs :
 
 ## 🎯 Objectifs
 
-- ✅ Implémenter l'algorithme Nutri-Score **spécifique aux boissons** (2024)
+- ✅ Implémenter l'algorithme Nutri-Score **spécifique aux boissons** (mars 2025)
 - ✅ Développer une classification ELECTRE TRI avec profils limites optimisés
 - ✅ Créer un SuperNutri-Score holistique intégrant l'impact environnemental
 - ✅ Comparer les trois méthodes sur une base de 289 boissons
@@ -32,11 +32,11 @@ Nous avons utilisé l'IA dans notre projet pour plusieurs objectifs :
 ```
 supernutriscore_project/
 │
-├── supernutriscore_v2.py          # Classes principales (NutriScore, ELECTRE TRI, SuperNutri-Score)
-├── interface_streamlit_v2.py      # Interface web interactive
-├── analyser_donnees_v2.py         # Script d'analyse et vérification
-├── base_donnees_boissons.csv      # Base de données (289 produits)
-└── README.md                      # Ce fichier
+├── supernutriscore.py          # Classes principales (NutriScore, ELECTRE TRI, SuperNutri-Score)
+├── interface_streamlit.py      # Interface web interactive
+├── analyser_donnees.py         # Script d'analyse et vérification
+├── base_donnees_boissons.csv   # Base de données (289 produits)
+└── README.md                   # Ce fichier
 ```
 
 ---
@@ -63,7 +63,7 @@ pip install pandas numpy streamlit plotly
 Lancer l'interface web interactive :
 
 ```bash
-streamlit run interface_streamlit_v2.py
+streamlit run interface_streamlit.py
 ```
 
 L'interface propose 5 pages :
@@ -79,16 +79,16 @@ Pour une analyse en ligne de commande :
 
 ```bash
 # Analyse complète de la base
-python analyser_donnees_v2.py
+python analyser_donnees.py
 
 # Analyse d'un produit spécifique
-python analyser_donnees_v2.py "Coca-Cola"
+python analyser_donnees.py "Coca-Cola"
 ```
 
 ### 3️⃣ Utilisation programmatique
 
 ```python
-from supernutriscore_v2 import NutriScoreBoissons, ElectreTri, SuperNutriScore
+from supernutriscore import NutriScoreBoissons, ElectreTri, SuperNutriScore
 import pandas as pd
 
 # Charger les données
@@ -110,7 +110,7 @@ resultat = NutriScoreBoissons.calculer_score_nutritionnel(
 print(f"Score: {resultat['score']}, Label: {resultat['label']}")
 
 # Classification ELECTRE TRI
-from supernutriscore_v2 import creer_profils_limites, definir_poids_criteres
+from supernutriscore import creer_profils_limites, definir_poids_criteres
 
 profils = creer_profils_limites(df)
 poids = definir_poids_criteres()
@@ -353,7 +353,7 @@ Les données proviennent de **Open Food Facts** (https://world.openfoodfacts.org
 ## 📚 Références
 
 1. **Nutri-Score**
-   - Règlement d'usage officiel 2024 : https://www.santepubliquefrance.fr/nutri-score
+   - Règlement d'usage officiel mars 2025 : https://www.santepubliquefrance.fr/nutri-score
    - Algorithme boissons : Annexe 2 du cahier des charges
 
 2. **ELECTRE TRI**
@@ -365,11 +365,13 @@ Les données proviennent de **Open Food Facts** (https://world.openfoodfacts.org
 
 ---
 
-## 👨‍💻 Auteur
+## 👨‍💻 Auteurs
 
-**Salim** - M2 MIAGE SITN, Université Paris Dauphine-PSL
+**Mehdi TAZEROUTI** - M2 MIAGE SITN, Université Paris Dauphine-PSL
 
-Projet académique dans le cadre du cours "Méthodes d'Aide Multicritère à la Décision"
+**Salim BOUSKINE** - M2 MIAGE SITN, Université Paris Dauphine-PSL
+
+Projet académique dans le cadre du cours "Transparence des algorithmes" - Groupe BOUSKINE
 
 ---
 
